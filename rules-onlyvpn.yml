@@ -1,2 +1,22 @@
 payload:
-  - PROCESS_NAME,com.supercell.brawlstars
+  - PROCESS-NAME,com.supercell.brawlstars
+  - PROCESS-NAME,EpicGamesLauncher.exe
+  - PROCESS-NAME,FortniteClient-Win64-Shipping.exe
+
+  # Ключевые слова и поддомены
+  - DOMAIN-KEYWORD,epicgames
+  - DOMAIN-KEYWORD,fortnite
+  - DOMAIN-SUFFIX,epicgames.com
+  - DOMAIN-SUFFIX,fortnite.com
+  - DOMAIN-SUFFIX,epicgames.dev
+  - DOMAIN-SUFFIX,unrealengine.com
+
+  # Сетевые диапазоны IP
+  - IP-CIDR,198.49.243.0/24
+  - IP-CIDR,199.83.170.0/24
+  - IP-CIDR,199.101.123.0/24
+  - IP-CIDR,204.225.101.0/24
+  - IP-CIDR,204.225.102.0/24
+  - IP-CIDR,204.225.103.0/24
+  - IP-CIDR,204.225.104.0/24
+  
