@@ -3,7 +3,6 @@ payload:
   - PROCESS-NAME,EpicGamesLauncher.exe
   - PROCESS-NAME,FortniteClient-Win64-Shipping.exe
 
-  # Ключевые слова и поддомены
   - DOMAIN-KEYWORD,epicgames
   - DOMAIN-KEYWORD,fortnite
   - DOMAIN-SUFFIX,epicgames.com
@@ -11,7 +10,6 @@ payload:
   - DOMAIN-SUFFIX,epicgames.dev
   - DOMAIN-SUFFIX,unrealengine.com
 
-  # Сетевые диапазоны IP
   - IP-CIDR,198.49.243.0/24
   - IP-CIDR,199.83.170.0/24
   - IP-CIDR,199.101.123.0/24
