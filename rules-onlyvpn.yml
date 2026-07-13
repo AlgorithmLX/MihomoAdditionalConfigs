@@ -3,6 +3,8 @@ payload:
   - PROCESS-NAME,EpicGamesLauncher.exe
   - PROCESS-NAME,FortniteClient-Win64-Shipping.exe
 
+  - DOMAIN-KEYWORD,gta5adm.com
+  
   - DOMAIN-KEYWORD,epicgames
   - DOMAIN-KEYWORD,fortnite
   - DOMAIN-SUFFIX,epicgames.com
