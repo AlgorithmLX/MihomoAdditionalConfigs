@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,fortnite.com
   - DOMAIN-SUFFIX,epicgames.dev
   - DOMAIN-SUFFIX,unrealengine.com
+  - DOMAIN-SUFFIX,scdn.co
 
   - IP-CIDR,198.49.243.0/24
   - IP-CIDR,199.83.170.0/24
