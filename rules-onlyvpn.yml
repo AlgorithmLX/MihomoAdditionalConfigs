@@ -21,3 +21,4 @@ payload:
   - IP-CIDR,204.225.103.0/24
   - IP-CIDR,204.225.104.0/24
   
+  - DOMAIN-KEYWORD,cloudflare
