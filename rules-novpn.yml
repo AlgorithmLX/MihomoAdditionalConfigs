@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,gta5rp.com
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,pvp.net
+  - DOMAIN-SUFFIX,riotcdn.net
   # APPS
   - PROCESS-NAME,steam.exe
   - PROCESS-NAME,steamwebhelper.exe
